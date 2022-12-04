@@ -4,10 +4,13 @@ const getLicenseData = require('./getLicenseData');
 function generateMarkdown(data) {
     const {title, description, installation, usage, contributions, tests, license, github, email} = data;
 
-    const {badge: licenseBadge, text: licenseText, link: licenseLink} = getLicenseData(license);
+    const licenseObject  = getLicenseData(license);
+    console.log(licenseObject);
+
+    const {badge, link: licenseLink, text: licenseText} = licenseObject;
 
     const readmeContent = 
-        `${licenseBadge}
+        `${badge}
     # ${title}
     ## Description
     ${description}

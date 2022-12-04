@@ -27,3 +27,5 @@ No additional restrictions — You may not apply legal terms or technological me
         link: 'https://creativecommons.org/licenses/by-nc/4.0/'
     }
 ];
+
+module.exports = licenseObjects;
