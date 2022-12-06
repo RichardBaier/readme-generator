@@ -1,26 +1,26 @@
 [![License: CC0-1.0](https://licensebuttons.net/l/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/)
-    # f
-    ## Description
-    undefined
-    ## Table of Contents
-    1. [Installation](#installation)
-    2. [Usage](#usage)
-    3. [Contributions](#contributions)
-    4. [Test Instructions](#test-instructions)
-    5. [License](#license)
-    6. [Questions](#questions)
-    <a name='installation'></a>
-    ## Installation
-    undefined
-    <a name='usage'></a>
-    ## Usage
-    undefined
-    <a name='contributions'></a>
+  # Readme Generator
+  ## Description
+  This project allows a user to create a professional readme for any project.
+  ## Table of Contents
+  1. [Installation](#installation)
+  2. [Usage](#usage)
+  3. [Contributions](#contributions)
+  4. [Test Instructions](#test-instructions)
+  5. [License](#license)
+  6. [Questions](#questions)
+  <a name='installation'></a>
+  ## Installation
+  Copy the code and then open in the terminal or bash, then run the command node index.js.
+  <a name='usage'></a>
+  ## Usage
+  Any user may use for any project.
+  <a name='contributions'></a>
   ## Contributions  
-  undefined  
+  May create forks or even create pull requests if they see improvements wanted.  
   <a name='test-instructions'></a>
   ## Test Instructions  
-  undefined
+  See installation instructions.
   <a name='license'></a>
   ## License  
   [Link](http://creativecommons.org/publicdomain/zero/1.0/)  
@@ -31,5 +31,5 @@ You can copy, modify, distribute and perform the work, even for commercial purpo
   <a name='questions'></a>
   ## Questions  
   If you have any further questions you may contact me at:  
-  GitHub: [My GitHub](undefined)  
+  GitHub: [My GitHub](https://github.com/RichardBaier)  
   Email: bearbaier@gmail.com

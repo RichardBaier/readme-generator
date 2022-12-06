@@ -10,24 +10,24 @@ function generateMarkdown(data) {
     const {badge, link: licenseLink, text: licenseText} = licenseObject;
 
     const readmeContent = 
-        `${badge}
-    # ${title}
-    ## Description
-    ${description}
-    ## Table of Contents
-    1. [Installation](#installation)
-    2. [Usage](#usage)
-    3. [Contributions](#contributions)
-    4. [Test Instructions](#test-instructions)
-    5. [License](#license)
-    6. [Questions](#questions)
-    <a name='installation'></a>
-    ## Installation
-    ${installation}
-    <a name='usage'></a>
-    ## Usage
-    ${usage}
-    <a name='contributions'></a>
+  `${badge}
+  # ${title}
+  ## Description
+  ${description}
+  ## Table of Contents
+  1. [Installation](#installation)
+  2. [Usage](#usage)
+  3. [Contributions](#contributions)
+  4. [Test Instructions](#test-instructions)
+  5. [License](#license)
+  6. [Questions](#questions)
+  <a name='installation'></a>
+  ## Installation
+  ${installation}
+  <a name='usage'></a>
+  ## Usage
+  ${usage}
+  <a name='contributions'></a>
   ## Contributions  
   ${contributions}  
   <a name='test-instructions'></a>
